@@ -1,1 +1,1 @@
-baseurl: /uncu-project-1
+baseurl: /uncu_project_1
